@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "980517626699",
+    "firebase_url": "https://the-game-91451.firebaseio.com",
+    "project_id": "the-game-91451",
+    "storage_bucket": "the-game-91451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980517626699:android:41df3cf4f7af761d",
+        "android_client_info": {
+          "package_name": "jevan.rpgfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980517626699-7p8qoe36k99lagjsn6d8h9o07vlikpeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnjl6G1yrDB8mB6lfQOhQ-uIkzZqIyLho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
