@@ -25,6 +25,11 @@ import 'dart:math';
 // dash = [Base = 2
 
 
+
+
+//testing github integration
+
+
 class Model {
 
   int muscle = 15, fitness = 15, vitality = 9, agility = 14, dexterity = 10, reflexes = 12, willpower = 9, intelligence = 14, memory = 15;
